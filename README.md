@@ -1,8 +1,8 @@
 [![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)](https://github.com/Surajpawar83)
 
-<h1 align="center">Hi 👋, I'm Suraj K. Pawar</h1>
+<h1 align="center">Hi 👋, I'm Suraj Pawar</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/pdE5y1A7WzKn2kgPdN/giphy.gif?cid=ecf05e47jaes7hse0g9k9sr6qeq8s8uljgqm25m5ddqw6ztm&ep=v1_stickers_search&rid=giphy.gif&ct=s">
+<img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/pT4hk0FMDu5VT0oRQc/giphy.gif?cid=ecf05e47105alrql8a1xarha6gi2f8fny8s5omqu45ty9z33&ep=v1_stickers_search&rid=giphy.gif&ct=s">
 
 - 🌱 I’m currently learning **React, Docker**
 
